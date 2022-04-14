@@ -5,7 +5,7 @@
 - Create a Snake Class & Move to OOP
 - How to Control the Snake with a Keypress
 - Class Inheritance
-- How to Slice Lists & Tuples in Python
+- How to Slice Lists & Tuples
 
 ## Language Implemented
 Python
